@@ -1,0 +1,11 @@
+China has implemented a series of targeted regulations for specific AI applications rather than adopting a single comprehensive framework. The Interim Measures for the Management of Generative AI Services, which took effect in August 2023, require that AI-generated content aligns with socialist core values and does not undermine state power or national unity.
+
+The Cyberspace Administration of China oversees AI regulation and requires companies to register their algorithms and undergo security assessments before deploying AI services to the public. Companies must also implement content moderation systems to filter outputs that violate regulations.
+
+China's approach to algorithmic recommendation systems was formalized through the Internet Information Service Algorithmic Recommendation Management Provisions. These rules require transparency in how algorithms curate content and give users the ability to opt out of personalized recommendations.
+
+Deep synthesis technology, including deepfakes and AI-generated media, is regulated under specific provisions that mandate watermarking and labeling of synthetic content. Service providers must verify user identities and maintain logs of generated content for regulatory review.
+
+Despite strict content controls, China has invested heavily in AI research and development. The government has set ambitious targets for becoming a global leader in AI by 2030, with substantial funding for AI research institutes and technology parks.
+
+The tension between innovation goals and regulatory control reflects a broader challenge in Chinese technology policy. Companies must navigate complex compliance requirements while competing in the global AI market, leading some firms to develop separate product versions for domestic and international markets.

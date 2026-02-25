@@ -1,0 +1,35 @@
+Lifestyle impacts green benefits of remote work
+By Syl Kacapyr Cornell Engineering
+September 18, 2023
+LinkedIn
+Facebook
+Twitter
+Email
+Share
+Remote workers can have a 54% lower carbon footprint compared with onsite workers, according to a new study by Cornell and Microsoft, with lifestyle choices and work arrangements playing an essential role in determining the environmental benefits of remote and hybrid work.
+
+The study, published Sept. 18 in the Proceedings of the National Academy of Sciences, also finds that hybrid workers who work from home two to four days per week can reduce their carbon footprint by 11% to 29%, but working from home one day per week is more negligible, cutting carbon footprint by only 2%. Hybrid workers at home once a week tend to have comparatively less commuting distance, home energy use and non-commute travel.
+
+“Remote work is not zero carbon, and the benefits of hybrid work are not perfectly linear,” said study senior author Fengqi You, the Roxanne E. and Michael J. Zak Professor in Energy Systems Engineering. “Everybody knows without commuting you save on transportation energy, but there’s always lifestyle effects and many other factors.”
+
+The main contributors to carbon footprint for onsite and hybrid workers, according to the study, are travel and office energy use. That’s no surprise to researchers quantifying the impact of remote work on the environment, but Cornell and Microsoft used survey data and modeling to incorporate factors sometimes overlooked when calculating carbon footprint, including residential energy use based on time-use allocation, non-commute distance and mode of transportation, communications device usage, number of household members and office configuration, such as seat sharing and building size.
+
+Notable findings and observations include:
+
+Non-commute travel, such as trips to social and recreational activities, becomes more significant as the number of remote workdays increases.
+Seat sharing among hybrid workers under full-building attendance can reduce carbon footprint by 28%.
+Hybrid workers tend to commute farther than onsite workers due to differences in housing choices.
+The effects of remote and hybrid work on communications technologies such as computer, phone and internet usage have negligible impacts on overall carbon footprint.
+“Remote and hybrid work shows great potential for reducing carbon footprint, but what behaviors should these companies and other policy makers be encouraging to maximize the benefits?” said Longqi Yang, Ph.D. ’19, principal applied research manager at Microsoft and corresponding author of the study. “The findings suggest organizations should prioritize lifestyle and workplace improvements.”
+
+You added that the study also provides insights into how companies might more accurately calculate their support of environmental sustainability.
+
+“All these companies are tracking for carbon neutrality, and so whenever someone is not working in the office, their company shouldn’t claim ‘I don’t contribute to that carbon footprint,’ because that’s not correct,” said You, who is a senior faculty fellow of the Cornell Atkinson Center for Sustainability.
+
+You said the study finds that companies and policymakers should also focus on incentivizing public transportation over driving, eliminating office space for remote workers and improving energy efficiency for office buildings.
+
+“Globally, every person, every country and every sector have these kinds of opportunities with remote work. How could the combined benefits change the whole world? That's something we really want to advance our understanding of,” said Yanqiu Tao, a doctoral student and the study’s first author.
+
+The study was based upon work supported by the National Science Foundation, and leveraged survey data from Microsoft, the American Time Use Survey, the National Household Travel Survey and the Residential Energy Consumption Survey.
+
+Syl Kacapyr is associate director of marketing and communications for Cornell Engineering.
