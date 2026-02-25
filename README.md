@@ -2,8 +2,6 @@
 
 An autonomous research digest agent that ingests multiple sources, extracts key claims, removes redundancy, and produces a structured, evidence-backed brief.
 
-**Topic:** AI Regulation (5 sample sources included)
-
 ## How It Works
 
 1. **Input Handling** — Accepts URLs (fetched via `requests` + `BeautifulSoup` with `lxml` parser) or local `.txt`/`.html` files. Duplicate URLs and file paths are detected and skipped.
