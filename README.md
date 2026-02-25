@@ -58,7 +58,7 @@ cp .env.example .env
 # Add your GROQ_API_KEY to .env
 
 # CLI
-python main.py --folder sample_inputs
+python main.py --folder sample_inputs/ai_regulation
 python main.py --urls https://example.com/article1 https://example.com/article2
 python main.py --urls https://example.com/article1 --folder sample_inputs
 
