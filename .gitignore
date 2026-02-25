@@ -8,6 +8,11 @@ __pycache__/
 
 .DS_Store
 
+# Project runtime artifacts
+data/
+output/
+logs/
+
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,188 @@
+AI Regulations around the World - 2026
+
+Around the world, at least 72 countries have proposed over 1000 AI-related policy initiatives and legal frameworks to address public concerns around AI safety and governance. Here’s what those AI regulations look like at the beginning of 2026...
+
+(This article will continue to evolve and change as new details and milestones around AI Regulations emerge. A history of these edits can be found at the end of the piece.)
+
+In the last decade, we have witnessed the most significant progress in the history of machine learning. The last five years, in particular, have seen AI transition from being positioned merely as a research or innovation project to a game-changing technology with countless real-world applications. This rapid shift has moved topics such as model governance, safety, and risk from the periphery of academic discussions to become central concerns in the field. Governments and industries worldwide have responded with proposals for regulations, and although the current regulatory landscape is nascent, diverse, and subject to impending change, the direction of travel is clear.
+
+This blog includes a detailed description of AI regulations in the following regions:
+
+United Kingdom
+European Union
+United States
+China
+Japan
+Rest of the World
+Regulations are taking shape. Here’s what they look like at the beginning of 2026...
+
+
+UK AI Regulation: “A Pro-innovation Approach”
+
+In March of 2023, the Government at the time published its framework for “A pro-innovation approach to AI regulation”. Rather than having concrete overarching regulation governing all AI development, the paper proposed a more activity-based approach that left individual regulatory bodies responsible for AI governance in their respective domains, with “central AI regulatory functions” to help regulators achieve this. 
+
+The UK continued to articulate its approach to AI  in November 2023 when it hosted the International AI Safety Summit, the first international government-led conference on this subject. The global interest in the event and the attendance by representatives from around the world demonstrated how far the conversation around AI governance had come in recent years. The summit moved the topic of AI Safety from the fringe to centre stage, paving the way for regulations that would be the main story for the next year. 2023 also marked the foundation of the AI Safety Institute (AISI), which evolved into the AI Security Institute in February 2025.
+
+If 2023 was about talking the talk on AI Safety, 2024 was about walking the walk. In February, the Government published its response to public consultation on its original white paper, pledging over £100 million to support regulators and advance research and innovation. Whilst promising to provide regulators with the “skills and tools they need to address the risks and opportunities of AI”, they also announced a deadline of April 30 for these regulators to publish their own approaches to AI management, which many of them did, including the Financial Conduct Authority (FCA), the Information Commissioner's Office (ICO), and the Equality and Human Rights Commission (EHRC).  
+
+The most notable impact of these new approaches came on July 31 when the FCA, a financial regulating authority in the UK, set out its Consumer Duty to ensure that all organisations within its remit offer services that represent fair value for consumers. These rules placed increased importance on effective AI governance, especially in competitive, customer-centric markets like insurance pricing. 
+
+That same July, the UK’s political landscape also underwent a significant shift when the Labour Party, led by Keir Starmer, won a landslide victory in the general election, unseating the incumbent Conservative government. This change introduced uncertainty regarding the UK’s approach to artificial intelligence (AI) regulation, as the two parties had differing strategies. 
+
+Prior to the election, the Conservative government advocated for a ‘pro-innovation’ and non-binding framework for AI regulation. They emphasised flexibility, allowing existing sectoral regulators to apply cross-sectoral principles to AI within their domains without immediate legislative intervention. The focus was on maintaining agility to foster innovation while monitoring the need for future targeted regulations, particularly concerning advanced general-purpose AI systems. Upon taking office, the Labour government signalled a shift towards more structured AI regulation. Their manifesto outlined plans to:
+
+Establish a Regulatory Innovation Office: This office aims to assist existing regulators in updating AI-related regulations, streamlining approval processes, and managing cross-sectoral issues.
+Implement Binding Regulations: Labour proposed introducing binding regulations specifically targeting companies developing the most powerful AI models, though details on which companies would be affected were not specified.
+Ban Harmful AI Applications: The manifesto included a commitment to prohibit the creation of sexually explicit deepfakes.
+The Department of Science, Innovation, and Technology has since published the AI Opportunities Action Plan in January 2025. The plan features “Recommendations for the government to capture the opportunities of AI to enhance growth and productivity and create tangible benefits for UK citizens.” The stated goal of these 50 recommendations is to:
+
+Grow the UK’s AI sector.
+Drive adoption of AI across the economy to boost growth.
+Improve products and services.
+Ministers have since signalled a Frontier AI Bill to give the AI Security Institute statutory powers, including potential pre‑deployment model testing authority for the most capable systems. The AISI continues government-led evaluations; its first Frontier AI Trends Report was published on December 18, 2025.
+
+The Labour Party’s initial commitment to a more interventionist approach in regulating artificial intelligence (AI) has already faced significant challenges due to recent international developments, particularly the election of Donald Trump as US President and the outcomes of the AI Action Summit in Paris in February 2025. This event, the 3rd edition of the AI Safety Summits that began at Bletchley Park in Nov 2023, shifted the focus from theoretical safety concerns to implementation, hence the replacement of the word “Safety” with “Action” in its title. 
+
+At the Summit, the U.S. and the UK declined to sign a declaration promoting “inclusive and sustainable” AI, which was endorsed by 60 other countries and emphasised ethical and responsible AI development. The UK’s refusal was attributed to concerns over national security and a perceived lack of clarity in global governance frameworks. This decision has drawn criticism from various groups, who argue that it could undermine the UK’s position as a leader in ethical AI innovation.  
+
+As of the start of 2026, a Private Member’s Artificial Intelligence (Regulation) Bill was also reintroduced, having failed to progress into law in 2024, and is progressing in the House of Lords, representing a renewed attempt to introduce legislation that is specific to AI.
+
+Helpful Resources:
+
+UK National AI Strategy (Sep 2021)
+A pro-innovation approach to AI regulation (Mar 2023)
+Introduction to AI Assurance (Feb 2024)
+AI Opportunities Action Plan (Jan 2025)
+
+Timeline of UK Regulations -Feb 2025
+
+
+The EU Artificial Intelligence Act
+
+On 21 April 2021, Europe’s landmark AI Act was officially proposed and seemed destined to be a first-in-the-world attempt to enshrine a set of AI regulations into law. The underlying premise of the bill was simple: regulate AI based on its capacity to cause harm. Drafters of the bill outlined various AI use cases and applications and then classified them with an appropriate degree of AI risk from minimal to high. Limited-risk AI systems would need to comply with minimal requirements for transparency. In contrast, high-risk AI systems, such as those related to aviation, education, and biometric surveillance, would have higher requirements and need to be registered in an EU database. 
+
+Additionally, some AI systems were deemed to have an unacceptable level of risk and would be banned outright, save for a few exceptions for law enforcement. These included:
+
+AI systems deploying subliminal techniques
+AI practices exploiting vulnerabilities
+Social scoring systems
+‘Real-time’ remote biometric identification systems
+Just as the Act was nearing its final stages at the end of 2022, ChatGPT took the world by storm, attracting 100 million users in its first two months and becoming one of the fastest-growing software applications ever. The new wave of Generative AI tools and general-purpose AI systems (GPAI) did not fit neatly into the EU’s original risk categories, and revisions to the act were required. 
+
+Nearly a year later, and after extensive lobbying attempts by Silicon Valley tech giants to water down the language on foundation models, a provisional agreement was reached. Despite this, there were further concerns that the bill would fail at the 11th hour due to reservations from certain countries around data protection and that the Act’s regulations governing advanced AI systems would hamstring young national startups like France’s Mistral AI and Germany’s Aleph Alpha. But with the Parliament issuing assurances that these fears would be allayed with formal declarations in the future, and with the creation of the EU’s Artificial Intelligence Office to enforce the AI Act, a deal was reached unanimously in February 2024 to proceed with the legislation, and it received final approval from the 27-nation bloc in a plenary vote on March 13, 2024. 
+
+The EU AI Act officially became law on the 1st of August 2024, with implementation staggered from early 2025 onwards. ‘Unacceptable‑risk’ bans and AI literacy requirements have applied since Feb 2, 2025, while general‑purpose AI (GPAI) rules, governance, penalties, and notified bodies began applying Aug 2, 2025. High‑risk obligations broadly apply from Aug 2, 2026, with legacy GPAI models required to comply by Aug 2, 2027. In Ireland, where companies such as Meta, TikTok, and Google have their EU headquarters, the Government designated national competent authorities via S.I. No. 366/2025 and set up its national coordination mechanisms in Sept 2025. 
+
+For all EU member states, within 3 years of the AI Act coming into force, sometime around the middle of 2027, all other rules will be in place, including requirements for AI that gets classified as high-risk, which will require third-party conformity assessment under other EU rules. Non-compliance with the rules will lead to fines of up to €35 million or 7% of global turnover, depending on the infringement and the company’s size.
+
+As of this blog’s most recent update in January 2026, despite initial uncertainty around the AI Act’s ban on AI systems posing “unacceptable risk” and which systems actually fall under this umbrella, the EU has since provided greater clarity in the form of the GPAI Code of Practice and guidance timelines, with enforcement continuing to ramp up in the coming years. Nevertheless, there continues to be rising concern from business leaders around how the Act could stifle innovation, discourage investment, and cause the EU to fall behind in the global AI arms race. This lack of clear direction has led many large international companies to adopt a more reticent approach to deploying AI more widely throughout the European Union.
+
+Helpful Resources:
+
+The EU AI Act
+EU AI Act Implementation Timeline
+General-purpose AI (GPAI) Code of Practice
+
+Timeline of the EU AI Act  - Feb 2025
+
+ 
+
+AI Regulations in the United States
+ 
+
+Federal Level
+
+Like the UK, the US does not yet have a comprehensive AI regulation, but numerous frameworks and guidelines exist at both the federal and state levels. However, a dramatic shift in federal AI policy occurred in January 2025 with the transition from the Biden administration to the Trump administration.
+
+The Reversal of Biden’s AI Oversight Approach
+
+In October 2023, President Joe Biden signed Executive Order 14110 on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. This order sought to impose reporting and safety obligations on AI companies, requiring them to test and disclose their models' capabilities and risks. However, upon assuming office in January 2025, President Donald Trump revoked this executive order within days, signalling a shift toward AI deregulation and industry-led innovation.
+
+Trump’s AI Strategy: Deregulation & Private Investment
+
+On January 23, 2025, President Trump signed Executive Order 14179, “Removing Barriers to American Leadership in Artificial Intelligence.” The Order redirected policy and initiated a cross‑government AI Action Plan whilst revoking or directing reviews of actions under Biden's EO 14110. Trump's new order eliminated key federal AI oversight policies established under the previous administration, signalling a departure from the regulatory framework put in place by President Biden.
+
+It also sought to encourage AI development by reducing regulatory barriers, allowing companies greater freedom to innovate without stringent federal oversight. Additionally, the order emphasised an industry-driven approach to AI governance, positioning the private sector as the primary driver of AI advancements. Trump framed this shift as necessary to ensure that AI development remains free from what he referred to as “ideological bias. The Trump Administration later released ‘Winning the Race: America’s AI Action Plan’ on Jul 31, 2025, detailing deliverables across its agencies.
+
+While the Trump administration’s latest moves represent a decisive push toward AI deregulation, it does not mean that all federal AI-related frameworks have been abandoned. Several non-legislative federal initiatives remain in place, reflecting a bipartisan acknowledgement of AI’s growing role in national security and economic competitiveness. The Department of Homeland Security’s “Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure” continues to provide guidance for AI deployment in key sectors such as energy, water, and transportation, though it remains voluntary under Trump’s governance. Similarly, the bipartisan SAFE Innovation AI Framework, which serves as a set of recommendations for AI developers, companies, and policymakers, has remained in discussion as an industry-led effort rather than a federally enforced mandate.
+
+At the same time, agencies such as the Securities and Exchange Commission (SEC) have taken independent steps to address AI-related risks. In September 2024, the SEC published an AI Compliance Plan to promote innovation while managing risks associated with AI in financial markets. However, under Trump’s administration, the SEC’s enforcement approach may be softened in favour of a more industry-friendly stance, prioritising economic growth over regulatory intervention.
+
+Beyond regulatory rollback, the Trump administration has launched Project Stargate, a $500 billion AI infrastructure initiative backed by private sector investment from OpenAI, Oracle, Japan’s SoftBank, and MGX, the UAE government's tech investment arm. This signals a major push toward AI commercialisation and global leadership, reinforcing Trump’s belief that AI innovation should be driven by market forces rather than government mandates.
+
+In short, the recent political and economic turbulence means the future of AI regulation in the US in the coming years is far from certain.
+
+
+State-Level AI Regulation: A Growing Divide
+
+While the federal government has pivoted to deregulation, states are actively passing their own AI laws, creating a fractured regulatory landscape. In the 2025 legislative session, all 50 states, Puerto Rico, the Virgin Islands, and Washington, D.C., have introduced legislation, while thirty-eight states adopted or enacted around 100 measures.
+
+Colorado Leads with the First Comprehensive AI Law
+
+On May 17, 2024, Colorado became the first U.S. state to pass a comprehensive AI law known as the Colorado AI Act. The legislation requires AI developers and deployers of high-risk AI systems to exercise reasonable care to prevent algorithmic discrimination. It also mandates clear disclosures to consumers when interacting with AI systems. This law is widely expected to serve as a model for future AI regulations in other states, particularly as concerns over AI bias and transparency continue to grow. However, the bill was amended in August 2025 to delay implementation to June  2026, and further changes may be considered over the course of the year.
+
+California’s AI Legislation Vetoed by Governor Newsom
+
+California had proposed the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act, a bill designed to mandate safety tests for powerful AI models and establish a publicly funded cloud computing cluster for AI research and development. However, in September 2024, Governor Gavin Newsom vetoed the bill, arguing that it could stifle AI innovation and harm California’s competitive edge in the technology sector. The decision reflects a wider debate over how far state regulations should go before they begin to limit industry growth and global competitiveness.
+
+Sector-Specific AI Laws Emerge
+
+Instead of passing sweeping AI regulations, many states are focusing on targeted laws addressing specific AI applications. In March 2024, Utah enacted the Artificial Intelligence Policy Act, which establishes liability for companies that fail to disclose the use of generative AI when required. Similarly, New York and Florida have introduced legislation aimed at regulating AI-driven hiring algorithms, bias mitigation, and consumer protection. These state-level efforts reflect a growing concern about how AI affects fairness in hiring practices and corporate accountability.
+
+State-Led Deepfake Legislation Expands
+
+The proliferation of deepfake content has led to a surge in state-level legislation aimed at AI-generated impersonation and non-consensual deepfake pornography. Following the Taylor Swift deepfake scandal in January 2024, several states, including California, New York, and Texas, introduced laws criminalising non-consensual deepfake pornography and placing stricter regulations on AI-generated impersonation. By the end of 2024, hundreds of bills had been introduced, and at least 40 new laws had been enacted across more than 25 states, with a primary focus on criminalising AI-generated explicit content and protecting individuals from digital exploitation. California has implemented laws to protect minors from AI-generated harmful imagery, making it clear that such content is illegal even if produced by AI
+
+With each state pursuing its own AI policies, businesses that operate across multiple states must now navigate a complex patchwork of AI regulations with different compliance requirements, liability risks, and enforcement mechanisms. As AI adoption continues to grow, this fragmented approach to regulation is likely to create new challenges for companies while also shaping the national conversation on AI governance in the absence of comprehensive federal legislation.
+
+Helpful Resources:
+
+AI Watch: Global regulatory tracker - United States
+
+AI Regulations in China
+
+China’s ‘New Generation Artificial Intelligence Development Plan’
+
+China was one of the first countries to establish a national AI strategy, publishing the New Generation Artificial Intelligence Development Plan in July 2017. This blueprint set ambitious goals for AI development, with targets extending to 2030. Over the years, China has introduced sector-specific AI regulations, including rules for managing AI algorithms, generative AI services, and deep synthesis technologies. In May 2024, scholars proposed a draft of the Artificial Intelligence Law of the People’s Republic of China, which—if enacted—would impose legal requirements on AI developers and deployers, particularly those working on high-risk or “critical” AI-based systems.
+
+In March 2025, authorities issued the final Measures for Labelling AI-Generated and Synthetic Content, which came into effect in September and requires labels for AI-generated content and detection mechanisms on platforms. Additionally, the State Administration for Market Regulation and the Standardisation Administration of China jointly released three national standards aimed at enhancing the security and governance of generative AI, standards which officially took effect on November 1, 2025.
+
+While China has embraced AI innovation, the government remains highly invested in controlling its development and deployment. According to recent reports, Beijing has adopted a dual approach, allowing companies and research labs to push the boundaries of AI development while maintaining strict regulatory oversight on public-facing AI services.
+
+China’s Strengthened AI Governance and Compliance Framework
+
+In September 2024, China’s National Technical Committee 260 on Cybersecurity released the AI Safety Governance Framework, aligning with the Global AI Governance Initiative. This framework introduced guidelines for the ethical and secure development of AI technologies. At the same time, the Cyberspace Administration of China (CAC) began implementing stricter rules on AI-generated content, including a mandatory watermarking system to combat misinformation and enhance public trust in digital media. These measures include audio Morse codes, encrypted metadata, and VR-based labelling systems designed to clearly distinguish AI-generated content from authentic material.
+
+DeepSeek’s Rise and Global Market Disruptions
+
+One of the most significant AI developments in China has been the meteoric rise of DeepSeek, a Hangzhou-based AI startup that has quickly positioned itself as a global competitor to OpenAI and Google’s Gemini. In February 2025, DeepSeek accelerated the launch of its R2 model, which boasts comparable capabilities to Western AI models but at a fraction of the training costs. This development sent shockwaves through the global AI industry, contributing to one of the largest single-day drops in US tech stock values in history.
+
+DeepSeek’s rapid ascent has also drawn the attention of policymakers and defence agencies in the West. The US Navy has officially banned the use of DeepSeek AI among its personnel, citing security concerns over potential data vulnerabilities and foreign influence. Meanwhile, discussions within the US and EU regulatory circles have intensified over whether stricter export controls should be imposed on AI technologies to limit the transfer of cutting-edge capabilities to China.
+
+The political and economic turbulence surrounding AI competition—particularly the growing divide between US and Chinese AI ecosystems—suggests that the future of AI regulation will be shaped not just by domestic concerns but also by global technological rivalries.
+
+Japan
+In 2022, Japan released its National AI Strategy, promoting the notion of "agile governance," whereby the government provides non-binding guidance and defers to the private sector's voluntary efforts to self-regulate. In 2023, to coincide with the G7 Summit, Japan published the Hiroshima International Guiding Principles for Organisations Developing Advanced AI Systems, which aim to establish and promote guidelines worldwide for safe, secure, and trustworthy AI.
+
+In 2024, the Government ramped up its efforts to legislate for AI’s use in Japan. In February, the government disclosed the rough draft of the “Basic Law for the Promotion of Responsible AI” (AI Act). In April 2024, the Ministry of Economy, Trade and Industry issued the AI Guidelines for Business Ver 1.0, intended to offer guidance to all entities (including public organisations, such as governments and local governments) involved in developing, providing, and using AI. The guidelines encourage all entities involved in AI to follow 10 principles: safety, fairness, privacy protection, data security, transparency, accountability, education and literacy, fair competition, innovation, and a human-centric approach that “enables diverse people to seek diverse well-being.”
+
+Japan subsequently enacted the Act on the Promotion of Research and Development and Utilisation of AI-Related Technologies (the AI Promotion Act) which was passed in May 2025, and entered into effect in June. The Act represents a non-binding national framework that sets strategic direction, coordination, and transparency goals without imposing penalties.
+
+Regulatory Changes across the Board
+
+Around the world, at least 69 countries have proposed over 1000 AI-related policy initiatives and legal frameworks to address public concerns around AI safety and governance.
+
+In Australia, the government has highlighted the application of existing regulatory frameworks for AI to compensate for the current laws and policies governing the technology, which experts warn may leave the country “at the back of the pack”. Since then, the Australian Department of Industry, Science and Resources released the Voluntary AI Safety Standard in August 2024, and in September, Australia's Digital Transformation Agency released its policy for the responsible use of AI in government. Finally, in December 2025, Australia published its National AI Plan, setting out how the Government would "support Australia to build an AI-enabled economy that is more competitive, productive and resilient".
+
+In India, a task force has been established to make recommendations on ethical, legal and societal issues related to AI and to establish an AI regulatory authority. According to the country’s National Strategy for AI, India hopes to become an "AI garage" for emerging and developing economies. Furthermore, in late 2025, the Government unveiled the India AI Governance Guidelines to steer safe, inclusive, and responsible adoption.
+
+In the UAE, President Sheikh Mohamed Bin Zayed Al Nahyan announced the creation of the Artificial Intelligence and Advanced Technology Council (AIATC) in January 2024.
+
+In Saudi Arabia, the first regulatory framework in relation to AI, the AI Ethics Principles, was published in 2023. Saudi Arabia is actively advancing its AI and data-driven innovation as part of its Vision 2030 economic diversification strategy. The Saudi Data and Artificial Intelligence Authority (SDAIA) plays a pivotal role in this transformation, overseeing initiatives like the National Data Bank, which serves as a centralised repository facilitating AI applications across sectors such as healthcare, education, finance, and smart city development. While specific AI regulations are still under development, the nation relies on broad, technology-specific guidelines to steer AI practices.  
+
+
+Timeline of Regulations -Feb 2025
+
+This is by no means an exhaustive list, but it all speaks to a regulatory landscape that has taken significant strides in the last 24 months to become more defined while varying greatly across borders and jurisdictions. What this means practically for those currently using AI is that specific considerations will be required for each jurisdiction in order to maintain compliance. 
+
+In data-rich, high-stakes sectors like defence and national security, abiding by the latest AI regulations will soon evolve from recommendations and frameworks to set-in-stone laws and rules. As such, they will carry with them the potential for significant fines, penalties, censure, and damage to reputations. As 2025 progresses, organisations need to monitor regulatory developments, be aware of the requirements on the horizon, and invest significant time and capital into proper AI governance to ensure they stay ahead of the game.
