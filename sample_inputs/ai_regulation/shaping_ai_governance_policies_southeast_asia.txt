@@ -1,0 +1,196 @@
+2025/13 “What is Shaping Artificial Intelligence (AI) Governance Policies in Southeast Asia?” by Kristina Fong
+
+EXECUTIVE SUMMARY
+• Over the past couple of years, countries in Southeast Asia, as well as ASEAN as a
+whole, have made great efforts to formulate guardrails around Artificial Intelligence
+(AI) design, deployment and usage.
+• The approach has largely been through the employment of broader voluntary AI
+governance frameworks or soft laws, supported by hard laws on baseline regulations
+such as those on personal data protection.
+• Regional AI governance strategies have employed risk-based approaches similar to
+those utilised by the European Union in formulating policies. Meanwhile, general AI
+governance principles used as a basis for these frameworks have centred around multistakeholder models such as the OECD AI Principles and UNESCO’s Recommendation
+on the Ethics of Artificial Intelligence.
+• Notwithstanding this international guidance, which has been useful for developing
+regulatory frameworks and institutional capacities for monitoring and enforcement, AI
+governance policies around the region are being customised to better align with local
+conditions.
+• Although influence from China’s AI governance frameworks does not feature strongly
+in the region, China’s strong presence in AI infrastructure is a rapidly growing trend.
+This may set the scene for Southeast Asian countries to be even more intertwined in
+ongoing geopolitical wranglings between the two global superpowers.
+
+INTRODUCTION
+The rapid proliferation of AI and the greater awareness of its capabilities and risks over the
+past few years have catalysed attempts to make AI development and deployment safer. In line
+with this, countries in Southeast Asia, as well as ASEAN as a whole, have made significant
+efforts to formulate guardrails around AI. For ASEAN, the release of the ASEAN Guide on AI
+Ethics and Governance1 (ASEAN AI Guide) in February 2024, followed by a supplementary
+guide specifically for Generative AI2 a year later, provided a set of holistic frameworks for the
+responsible design, deployment and usage of AI systems.
+Besides ASEAN-wide guidance, individual ASEAN Member States (AMS) have also taken
+steps to strengthen their own safeguards to help ensure safe and ethical AI developments at a
+measured pace. Although the AMS may have taken different approaches to AI governance in
+their respective jurisdictions, there is an emerging utilisation of an umbrella soft law supported
+by hard law baseline regulations. Moreover, certain pertinent aspects of international
+governance benchmarks are also setting the foundation for their implementation, such as the
+EU’s risk-based approach leveraged in the EU AI Act.
+GETTING YOUR DUCKS IN A ROW
+Prior to the release of the ASEAN AI Guide, we conducted an assessment of AI policies in
+ASEAN Member States (AMS). In addition to that, we also explored if the regulatory building
+blocks required to better manage AI developments, such as Personal Data Protection (PDP)
+and Cybersecurity legislation, were in place.3 Before the ASEAN AI Guide, six out of ten AMS
+had some form of AI strategy in place, while four had not crafted such policies as yet, the latter
+being Brunei, Cambodia, Lao PDR and Myanmar. By the end of 2025, however, Brunei had
+released the Artificial Intelligence (AI) Governance and Ethics Guide for Brunei Darussalam
+(2025), under the Authority for Info-Communications Technology Industry, and gazetted its
+Personal Data Protection Order 2025. Notably, Brunei cited the ASEAN AI Guide as a key
+piece of guidance in the formation of its own AI governance strategy.4
+Cambodia, Lao PDR and Myanmar, meanwhile, continue to develop their own national AI
+strategies, guided in the interim by their respective digital economy national strategies such as
+the Cambodia Digital Economy and Society Policy Framework (2021-2035) and the Laos
+Digital Economy Strategy (2021-2030). In these documents, AI-related initiatives such as
+studying and fostering the use of AI technologies are outlined, albeit without much detail. For
+Timor-Leste, ASEAN’s newest member state, Timor Digital 2032 (2023-2032) under TIC5
+Timor, is the main strategic document for the digital economy. However, it does not explicitly
+mention AI but rather, encompasses digital and ICT developments to facilitate economic, egovernment, health, education and agriculture initiatives, which could include AI technologies.
+That said, prior to embarking on any AI-specific plans, Timor-Leste will need to bolster its
+overall digital development; it scores low on digital availability, access and adoption. As of
+2023, it was estimated by UNCTAD that only 34 per cent of the population used the internet,
+with the next lowest in ASEAN being Myanmar at 58.5 per cent.
+
+However, the more pressing issue is that Cambodia, Myanmar and Timor-Leste have yet to
+implement Personal Data Protection Laws. Moreover, cybersecurity enforcement also remains
+weak. Lao PDR employs the Law on Electronic Data Protection No. 25/NA6 which pertains to
+data in digital form. The absence of an overarching national strategy on AI may put these
+countries in less competitive positions compared to their ASEAN peers. Without robust implementation of baseline regulations on AI, countries are posited more precariously amid the
+rapidity of technological developments. 
+
+THE EVOLVING ROLE OF DATA-PROTECTION AUTHORITIES (DPAS)
+The role of DPAs has become more important in the context of the evolving model of AI
+development management and enforcement. In particular, the proposed use of DPAs as the best
+placed institution to act as a central body to coordinate AI policy compliance and enforcement,
+is gaining traction. Leading the way is the European Union (EU) with their EU AI Act. In the
+attempt to formulate the most optimal enforcement mechanism, the European Data Protection
+Board (EDPB) has encouraged the appointment of national DPAs as Market Surveillance
+Authorities (MSAs).7 G7 Privacy officials support the idea, citing their familiarity gained in
+the development of guidelines and policy documents, the experience garnered in assessing AI
+technology impacts on its stakeholders, as well as the actions taken in this area following
+governance breaches at data source.8
+In Asia, DPAs have been central to shaping key policy documents. In South Korea, the Personal
+Information Protection Commission (PIPC) released generative AI (genAI) guidelines in
+August 2025. In Singapore, the Model AI Governance Framework, as well as the updated
+version that incorporates genAI, and subsequently the AI Verify tool – the world’s first AI
+governance testing framework and toolkit – were jointly produced by the Infocomm Media
+Development Authority (IMDA) and the Personal Data Protection Commission (PDPC).9
+These are prime examples of how DPAs have shaped public policy. However, the capabilities
+of DPAs across Southeast Asia are very diverse. As such, the use of DPAs as central market
+surveillance authorities may be viable for some, but not others. For the latter, existing DPA
+capacities will need to be bolstered to become effective regulatory bodies. This may need
+human capital enhancements and capital investments before it can be considered an ideal option
+as an MSA.
+For countries with established DPA capabilities and who are keen to pursue this model of AI
+governance enforcement, capacity building will need to focus on the additional skills and
+knowledge to effectively monitor the entire AI system supply chain and not only the input level
+of data governance. Both the EU and the G7 have recognised this aspect to be integral for this
+model to work. The other integral aspect cited is the need to have a seamless coordination
+mechanism amongst the MSA and other regulatory bodies tasked with the supervision of the
+AI ecosystem. These bodies could include those involved in competition matters and consumer
+protection. In Southeast Asia, countries with more established AI ecosystems (Singapore,
+Malaysia and Thailand)10 and regulatory coordination mechanisms in place would be better
+placed to implement this model.
+
+CHERRY PICKING WHAT’S BEST FOR ASEAN
+The AI governance risk frameworks around the region have largely been developed to be
+voluntary in nature – such as those in Brunei, Malaysia11 and Singapore – but some countries
+are moving ahead with the establishment of more formal AI laws. In December 2025, Vietnam
+became the first country in Southeast Asia to make a concrete move on this with the
+promulgation of the AI Law which is to take effect in a phrased approach, from March 2026
+over four years. The AI Law was passed along with updated laws on intellectual property (IP)
+and cybersecurity, which include revisions pertaining to AI-specific incidents. 12 Detailed
+enforcement mechanisms and other specifics will be more formally established during the 
+5
+ISSN 2335-6677
+ISSUE: 2026 No. 13
+implementation phases. The establishment of a regulatory infrastructure and the appointment
+of regulatory authorities are set for 2026.13
+Whilst Vietnam has referenced the risk-based approach (emphasising safeguards in the riskreturn trade-off) of the EU and the innovation-led approaches (emphasising technological
+development in the risk-return trade-off) taken by South Korea and Japan in the development
+of their own AI legislation,14 it is important to also note that international guidance has not
+been merely taken ‘off the shelf’, but rather, customised to reflect domestic priorities and
+institutional capacities. Vietnam has adopted a risk-based approach in classifying risks, much
+like the EU AI Act; the number of risk categories has however been reduced. In particular,
+Vietnam’s AI risk classifications only apply to AI systems deemed lawful. In the EU AI Act,
+prohibited AI systems are included in the formal risk framework as Unacceptable Risks. Apart
+from that, the EU’s risk classification framework focuses on the use of the AI system and the
+risks therein,15 whereas Vietnam’s approach looks at risks from the angle of impact.16 Thailand
+is also targeting the creation of an AI Law. A drafting process initiated in 2023 experienced a
+quiet period of two years with limited traction. The Electronic Transactions Development
+Agency (ETDA) later explained that the reason for this was attributed to the need for the draft
+AI Law, which had originally used the EU AI Act as a template, to be refined to suit local
+circumstances,17 much like in the case for Vietnam.
+In this draft Law, the risk-based approach helps articulate what compliance requirements are
+needed for high-risk AI applications and systems. However, the draft Law proposes to leave it
+to sectoral bodies to determine which activities are high risk in their respective areas. This is
+based on the notion that sectoral bodies would have better understanding of these activities and
+could more accurately discern the level of risks they present to society. The cost of risk misclassification could stifle economic activities as well as create undue compliance costs for
+affected business activities. To note, this sectoral approach has also been taken by Indonesia
+which is also proposing a soft AI Law or framework.18 Some of the sectors identified include
+finance, education and healthcare. For Thailand, the timeline for passing the law is still unclear,
+although ETDA is revising the consolidated Draft Principles after a public consultation process
+in 2025. 19 For Indonesia, the AI framework is expected to be signed off as Presidential
+regulations in early 2026.
+The EU’s risk-based approach to AI legislation seems to be the most adapted form of
+international guidance so far. The innovation-centric angle preferred by South Korea and Japan
+has also been cited as having some influence over the approaches taken by the AMS.
+International guidance is also important in limiting the risk of digital fragmentation.
+International alignment is important for digital integration, and to leverage upon the porous
+technology that AI is. Most of the principles underlying AI governance frameworks in the
+region take guidance from international AI governance frameworks such as the OECD AI
+Principles, EU’s Ethics Guidelines for Trustworthy AI, US National Institute of Standards and
+Technology (NIST) Artificial Intelligence Risk Management Framework (AI RMF),
+UNESCO’s Recommendation on the Ethics of Artificial Intelligence, as well as ISO standards
+in this area. Thus, some form of regional alignment does occur when it comes to AI ethics and
+governance; regional documents are also quite consistent across the board. The proposed
+Digital Economy Framework Agreement (DEFA) which is expected to have a chapter on
+emerging issues including AI, will also help to streamline the operational standards20 and best
+practices, and limit the risk of fragmentation.
+GEOPOLITICAL PRESSURES REMAIN
+Although China has its own set of AI governance principles in the form of the Interim Measures
+for the Management of Generative Artificial Intelligence Services,21 as well as a strategy to
+socialise their vision for global AI governance in the form of the Global AI Governance
+Initiative (GAIGI),22 these have not gained much traction compared to other international
+frameworks mentioned earlier. This could perhaps be due to the differences in their approach
+to governance and defining principles,23 or the gravitation of countries in the region to multistakeholder models, wary as they are of being caught up in geopolitical wranglings. Quite
+notably, in America’s AI Action Plan24 released in July 2025, there is a stated objective to
+‘Counter Chinese Influence in International Governance Bodies’, which is as clear as it gets
+with respect to the US stance regarding this matter.
+That said, China does noticeably take a more aggressive position in that of the AI stack25 (or
+AI software and hardware infrastructure) in Southeast Asia.
+26 Apart from physical foundations
+such as data centres, Chinese Large Language Models (LLMs) are open-source, as well as more
+competitively-priced compared to close market competitors, allowing more access and
+customisation for system deployers.27 As at end-2025, Chinese models accounted for around
+30 per cent of the global share in usage, marking a rapid rise from only 13 per cent at the start
+of 2025.
+28 Thus, the influence of China in this space cannot be overlooked and the current trend
+may act as a catalyst for greater interest in China’s AI governance in the future. Although the
+economic benefits may be the prevalent concern, the potential acceleration in this trend is
+bound to accentuate geopolitical complexities. In May 2025, Malaysia announced that the
+country’s sovereign full-stack AI ecosystem utilised China’s DeepSeek LLM.
+29 Most recently
+in October, Malaysia signed the Agreement on Reciprocal Trade30 (ART) with the US. In the
+ART, specific terms discourage Malaysia from forging preferential economic cooperation with
+‘a country that jeopardises essential US interests’, failing which would send US reciprocal
+tariffs on Malaysia back to 24 per cent (now negotiated down to 19 per cent). Thus, Southeast
+Asian countries with strong ties to both superpowers will once again be saddled with difficult
+choices.
+Southeast Asian countries remain at different levels of AI policy implementation and
+enforcement. Though there may be various approaches across countries, by and large, there
+exists a similar basis and understanding of AI governance principles. As the governance
+ecosystem continues to evolve, international best practices aligned with ASEAN objectives
+will be adopted through customisation for local AMS conditions. However, the regulatory
+catch-up dynamic will be put to the test; technological developments will be largely
+operationalised before safeguarding frameworks can be institutionalised. There are also high
+risks of existing safeguarding regulations becoming outdated amid the rapid dynamism of this
+space.

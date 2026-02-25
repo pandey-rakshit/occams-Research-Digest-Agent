@@ -1,3 +1,4 @@
+import json
 import os
 import sys
 import tempfile
@@ -59,7 +60,10 @@ def render_sidebar():
             "Chunk Overlap", min_value=0, max_value=500, value=200, step=50
         )
 
-    return urls, uploaded_files, similarity_threshold, chunk_size, chunk_overlap
+        st.divider()
+        show_history = st.toggle("Show Last Run", value=False, help="Load results from the previous pipeline run")
+
+    return urls, uploaded_files, similarity_threshold, chunk_size, chunk_overlap, show_history
 
 
 def save_uploaded_files(uploaded_files):
@@ -167,13 +171,81 @@ def render_downloads_tab(output_dir):
             )
 
 
+def load_last_run(output_dir):
+    digest_path = os.path.join(output_dir, "digest.md")
+    sources_path = os.path.join(output_dir, "sources.json")
+
+    if not os.path.exists(digest_path) and not os.path.exists(sources_path):
+        return None
+
+    last_run = {}
+
+    if os.path.exists(digest_path):
+        with open(digest_path, "r", encoding="utf-8") as f:
+            last_run["digest_md"] = f.read()
+
+    if os.path.exists(sources_path):
+        with open(sources_path, "r", encoding="utf-8") as f:
+            last_run["sources_json"] = json.load(f)
+
+    return last_run
+
+
+def render_last_run(last_run, output_dir):
+    st.subheader("Last Run Results")
+
+    tab1, tab2, tab3 = st.tabs(["Digest", "Sources", "Downloads"])
+
+    with tab1:
+        if "digest_md" in last_run:
+            st.markdown(last_run["digest_md"])
+        else:
+            st.info("No digest found.")
+
+    with tab2:
+        if "sources_json" in last_run:
+            sources_list = last_run["sources_json"].get("sources", [])
+            for source in sources_list:
+                title = source.get("title") or source.get("source_path", "Unknown")
+                status = source.get("status", "unknown")
+                icon = STATUS_ICONS.get(status, "❓")
+                claim_count = len(source.get("claims", []))
+                with st.expander(f"{icon} {title} ({claim_count} claims)"):
+                    st.write(f"**Type:** {source.get('source_type', 'N/A')}")
+                    st.write(f"**Path:** {source.get('source_path', 'N/A')}")
+                    st.write(f"**Length:** {source.get('char_length', 0):,} chars")
+                    st.write(f"**Status:** {status}")
+                    if source.get("error"):
+                        st.error(source["error"])
+                    for claim in source.get("claims", []):
+                        st.markdown(f"**Claim:** {claim.get('claim', '')}")
+                        st.markdown(f"> {claim.get('supporting_quote', '')}")
+                        st.divider()
+        else:
+            st.info("No sources found.")
+
+    with tab3:
+        render_downloads_tab(output_dir)
+
+
 def main():
     st.title("Research Digest Agent")
     st.caption(
         "Ingest sources, extract claims, deduplicate, and generate structured research briefs."
     )
 
-    urls, uploaded_files, threshold, chunk_size, chunk_overlap = render_sidebar()
+    urls, uploaded_files, threshold, chunk_size, chunk_overlap, show_history = render_sidebar()
+
+    output_dir = os.path.join(os.path.dirname(__file__), "output")
+
+    if show_history:
+        last_run = load_last_run(output_dir)
+        if last_run:
+            render_last_run(last_run, output_dir)
+            st.divider()
+        else:
+            st.info("No previous run found. Run the pipeline first.")
+            st.divider()
 
     total_sources = len(urls) + len(uploaded_files or [])
     st.info(f"**{total_sources}** source(s) configured. Minimum 5 recommended.")

@@ -74,6 +74,9 @@ class ResearchDigestOrchestrator:
         if not all_claims:
             return self._error_result("No claims could be extracted.", sources)
 
+        print("[*] Grounding claims with source text...")
+        self._ground_claims(all_claims)
+
         print(f"[*] Grouping {len(all_claims)} claims...")
         groups = self._deduplicator.deduplicate_and_group(all_claims)
 
@@ -175,6 +178,20 @@ class ResearchDigestOrchestrator:
 
         logger.info(f"Extracted {len(all_claims)} total claims")
         return all_claims
+
+    def _ground_claims(self, claims: list[Claim]):
+        for claim in claims:
+            results = self._vector_store.search(claim.claim_text, top_k=3)
+
+            matched = [
+                r for r in results
+                if r.metadata.get("document_id") == claim.source_id
+            ]
+
+            if matched:
+                claim.supporting_quote = matched[0].content
+
+        logger.info(f"Grounded {len(claims)} claims with source text from vector store")
 
     def _error_result(self, message: str, sources: list[ProcessedSource]) -> dict:
         logger.error(message)

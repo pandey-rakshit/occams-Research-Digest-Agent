@@ -1,0 +1,33 @@
+AI Regulation: A Tale of Two Austrian Economists
+If policymakers treat Big Tech’s bureaucratic stagnation as a justification for more bureaucracy, the outcome will be a self-fulfilling Schumpeterian slide into managerial socialism.
+
+Mitchell Bahnsen
+•
+
+February 24, 2026
+Conversations around artificial intelligence have dominated the news cycle and culture at large for the better part of three years, with concerns becoming amplified more and more as time has gone on. These concerns focus mainly on regulation, safety, and environmental impacts.
+
+Many policymakers argue that the scale of “Big Tech” threatens innovation, a claim often more motivated by political incentives than true economic analysis. More helpful than anecdotal assumptions, however, is the work of two twentieth-century Austrian economists, F.A. Hayek and Joseph Schumpeter. It seems the real threats to innovation may be less about Big Tech and more akin to bureaucratization and central planning by regulators. While critics fear capitalism’s excesses, both Hayek and Schumpeter warn that overreaction can stifle innovation. Overall, the two thinkers demonstrate that the danger is not “unregulated capitalism,” but the merger of large corporate bureaucracy with state planning impulses.
+
+As Schumpeter describes in his magnum opus, Capitalism, Socialism, and Democracy, the process of capitalism is a complex one. He describes the phenomenon of creative destruction, where an entrepreneur innovates a particular good or service. This eventually erodes the very entrepreneurial ambition that created the product, replaced instead by a large bureaucratized firm, drunk on its own success and unable to innovate with the same veracity as before, until the next innovative competitor comes along and the cycle continues. This is evident in Big Tech: Amazon, Apple, and Meta are no longer scrappy startups but what Schumpeter would call “perfectly bureaucratized industrial units.”  The innovation that led to their initial success becomes routine inside R&D departments, layers of middle management, and the firm ultimately becomes technocratic. This erodes the risk taking that led to the innovation in the first place, and risk taking becomes less commonplace. The public then interprets this slowdown as a “market failure,” opening the door to the appeal of government involvement. 
+
+This slowdown is happening in the midst of the AI revolution, with massive tech company layoffs. The mantra of ‘move fast and break things’ has given way to a crisis of middle management, most visibly in Elon Musk’s decision to lay off over half of Twitter’s workforce. These firms are not “monopolies” preventing competition, as much as they are bureaucratic giants facing internal stagnation, an ironic product of their own entrepreneurial success. 
+
+If Schumpeter shows why big firms ossify, Hayek shows why regulators cannot fix the stagnation, and often make it worse. Policymakers always assume they can design rules for “safe AI,” “fair algorithms,” or something of the like, and appeal to a populous afraid of change and often experiencing paralysis around technological development. Such regulatory interest may seem like “common sense,” but they each require information that no central authority can gather, even with hearings, white papers, and expert panels.
+
+Hayek dubs this phenomenon “the knowledge problem,” a commonality in his critique of socialism and the “fatal conceit” of central planning. Hayek famously said, “The curious task of economics is to show men how little they know about what they imagine they can design.” The best opportunity for AI progress is decentralized, happening in small labs, and promoting innovation and development as much as possible. The “best” AI architectures, training data, or safety protocols cannot be known ahead of time, because the extent of the technology has yet to be explored. Regulation attempts to “freeze” innovation into one approved path, which amplifies the sclerosis Schumpeter describes and stifles incentives to innovate. There are several notable examples of these bad regulations, including the EU’s recent AI act which prohibits certain model categories and imposes heavy ex ante compliance. With regulatory capture comes tremendous barriers to entry for smaller firms. This means only large tech companies can comply with the regulation, entrenching the narratives around Big Tech by preventing new innovators from coming to the table. The more policymakers decide the future of innovation, the less room innovators have to discover what actually works.
+
+
+Daily economic insight in your mailbox.
+Email
+
+
+With both of Schumpeter and Hayek’s concerns put together, managerial bureaucracy merges with managerial government regulation, forming what Schumpeter calls “the heir apparent to capitalism,” a hybrid of corporate technocracy and state regulation, akin somewhat to China’s current economic system. This results in lower entrepreneurial entry, less experimentation, higher regulatory moats, more political dependence of firms, a decline of economic freedom, and a decrease in innovation, already seen in non-AI sectors. The threat is not “monopoly power,” but policy-induced stagnation. Big Tech, combined with big government, creates a self-reinforcing cycle of bureaucratization.  
+
+In order to prevent this vicious cycle of bureaucracy, there are Hayekeian improvements that could prove helpful, including reducing regulatory barriers that privilege incumbents, and allowing open entry, open-source experimentation, and competitive discovery. A system of stable rules rather than discretionary regulatory action prevents cronyism and the kind of corporate welfare involved with regulation.
+
+From a Schumpeterian standpoint, solutions are less direct. Generally encouraging entrepreneurship—through lower compliance costs and reduced barriers to entry—fosters innovation and a more competitive market, which better serves consumers. At the end of the day, creative destruction should be recognized as a healthy feature of economic life, not a pathological one.
+
+If policymakers treat Big Tech’s bureaucratic stagnation as a justification for more bureaucracy, the outcome will be a self-fulfilling Schumpeterian slide into managerial socialism. The path forward is not to plan innovation, but to let a new wave of entrepreneurs challenge bureaucratic giants. Big Tech does not need to be centrally managed, and AI does not need a planner. 
+
+What it needs is competition, openness, and the freedom to discover what no regulator or executive committee can foresee. Hayek and Schumpeter help us see that innovation survives only when we defend the institutions that make creative destruction possible.
